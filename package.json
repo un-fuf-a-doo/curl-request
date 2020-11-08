@@ -29,8 +29,8 @@
   },
   "homepage": "https://github.com/do-web/curl-request#readme",
   "dependencies": {
-    "net": "^1.0.2",
-    "node-libcurl": "^1.2.0",
-    "querystring": "^0.2.0"
+    "net": "latest",
+    "node-libcurl": "latest",
+    "querystring": "latest"
   }
 }
